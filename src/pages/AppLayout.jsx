@@ -1,10 +1,11 @@
-import AppNav from "../component/PageNav";
+import Sidebar from "../component/Sidebar";
+
+import styles from "./AppLayout.module.css";
 
 function AppLayout() {
   return (
-    <div>
-      <AppNav />
-      <p>AppLayout</p>
+    <div className={styles.app}>
+      <Sidebar />
     </div>
   );
 }
