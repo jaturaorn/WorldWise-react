@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Saint-Maurice-Crillat",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2024-01-26T03:08:52.469Z",
+      "notes": "",
+      "position": {
+        "lat": "46.574985647681736",
+        "lng": "5.861841017034521"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Helperknapp",
+      "country": "Luxembourg",
+      "emoji": "LU",
+      "date": "2024-01-26T03:09:18.491Z",
+      "notes": "",
+      "position": {
+        "lat": "49.703167720179884",
+        "lng": "6.007546369071491"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Za’roura",
+      "country": "Morocco",
+      "emoji": "MA",
+      "date": "2024-01-26T03:14:09.237Z",
+      "notes": "testy",
+      "position": {
+        "lat": "35.263561862152095",
+        "lng": "-5.603220567681876"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Ligurian Sea Cetacean Sanctuary",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-26T03:45:46.480Z",
+      "notes": "dasdw",
+      "position": {
+        "lat": "43.628123412124616",
+        "lng": "7.524862037325014"
+      },
+      "id": 98443201
     }
   ]
 }
